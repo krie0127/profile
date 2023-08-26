@@ -56,6 +56,7 @@ group :development, :test do
   gem 'rubocop-checkstyle_formatter'
   gem 'rspec-rails'
   gem 'rspec_junit_formatter'
+  gem 'carrierwave', '~> 2.0'
 end
 
 group :development do
